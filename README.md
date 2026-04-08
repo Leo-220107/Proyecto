@@ -135,3 +135,4 @@ Fallas en simulaciones
 
 📌 5. Matriz de Solución de Errores (Troubleshooting)
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/3eacacda-344d-4181-b1c3-ef63cd5c867d" />
+ESTUDIANTE: Leo Fernando Legua Cueto
